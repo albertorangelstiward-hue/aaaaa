@@ -1,0 +1,51 @@
+{
+  "prompt_for_image_creator": {
+    "objective": "Transform the provided image to enhance the realism of the avatar's skin and introduce a subtle smile, while retaining the original background and avatar's identity.",
+    "avatar_details": {
+      "gender": "male",
+      "age_range": "20s-30s",
+      "hair_style": "short, dark, neatly styled, parted to the side",
+      "facial_features": "smooth complexion, defined jawline, dark eyes, currently neutral expression",
+      "clothing": {
+        "jacket": "dark purple blazer, fitted, with a magenta pocket square",
+        "shirt": "crisp white collared dress shirt, unbuttoned at the collar",
+        "trousers": "dark grey tailored trousers",
+        "accessories": "dark leather belt"
+      },
+      "pose": "standing, slightly turned towards the viewer, hands clasped loosely in front, one hand adjusting the belt buckle",
+      "expression_modification": "Introduce a very slight, natural, and warm smile. The smile should be subtle enough to maintain a professional yet approachable demeanor, focusing on the eyes and corners of the mouth."
+    },
+    "skin_detail_enhancement": {
+      "level": "extreme photorealism",
+      "attributes_to_enhance": [
+        "subtle pores and skin texture",
+        "natural variations in skin tone",
+        "realistic light reflection on skin (e.g., slight sheen on forehead/nose)",
+        "minimal, natural imperfections (e.g., faint moles or subtle lines)",
+        "soft natural blush on cheeks (if applicable to natural skin tone)",
+        "realistic depiction of blood flow under the skin (e.g., around lips, ears)"
+      ],
+      "avoid_effects": [
+        "overly smooth or 'plastic' appearance",
+        "exaggerated wrinkles or blemishes",
+        "unnatural skin discoloration",
+        "excessive gloss or oiliness"
+      ]
+    },
+    "background_details": {
+      "status": "retain original",
+      "description_from_image": "modern studio setting with vibrant, glowing neon green and magenta light panels, geometric wall designs, a screen displaying 'agena no...', and a blurred sofa in the background.",
+      "modifications": "none"
+    },
+    "overall_composition": {
+      "status": "retain original",
+      "modifications": "none"
+    },
+    "lighting": {
+      "status": "retain original",
+      "description_from_image": "soft, even studio lighting with noticeable colored light contributions from the background elements.",
+      "modifications": "none"
+    },
+    "style": "photorealistic, high-resolution, broadcast quality image"
+  }
+}
